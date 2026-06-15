@@ -266,7 +266,7 @@ Exemplo de uma sessão de carregamento simulada:
 
 ## Vídeo de Demonstração
 
-🎬 **[Link do vídeo no YouTube](#)** *(será atualizado após gravação)*
+🎬 **[Link do vídeo no YouTube](#)** *(https://youtu.be/h-onAbmk0XU)*
 
 ---
 
